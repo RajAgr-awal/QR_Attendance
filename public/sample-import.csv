@@ -1,0 +1,51 @@
+name,email,phone,college,reg_id
+Aarav Sharma,aarav.sharma@iitb.ac.in,+91-98001-00001,IIT Bombay,REG-1001
+Diya Patel,diya.patel@nitk.ac.in,+91-98001-00002,NIT Karnataka,REG-1002
+Rohan Verma,rohan.verma@vit.ac.in,+91-98001-00003,VIT Vellore,REG-1003
+Priya Singh,priya.singh@bits.ac.in,+91-98001-00004,BITS Pilani,REG-1004
+Aryan Mehta,aryan.mehta@iitd.ac.in,+91-98001-00005,IIT Delhi,REG-1005
+Sneha Reddy,sneha.reddy@manipal.ac.in,+91-98001-00006,Manipal University,REG-1006
+Karan Gupta,karan.gupta@srm.ac.in,+91-98001-00007,SRM University,REG-1007
+Anika Joshi,anika.joshi@rvce.ac.in,+91-98001-00008,RVCE Bangalore,REG-1008
+Vikram Kumar,vikram.kumar@pec.ac.in,+91-98001-00009,PEC Chandigarh,REG-1009
+Meera Nair,meera.nair@cusat.ac.in,+91-98001-00010,CUSAT Kochi,REG-1010
+Siddharth Rao,siddharth.rao@iitm.ac.in,+91-98001-00011,IIT Madras,REG-1011
+Kavya Menon,kavya.menon@amrita.ac.in,+91-98001-00012,Amrita University,REG-1012
+Rahul Tiwari,rahul.tiwari@jiit.ac.in,+91-98001-00013,JIIT Noida,REG-1013
+Ananya Bose,ananya.bose@jadavpur.ac.in,+91-98001-00014,Jadavpur University,REG-1014
+Dev Chauhan,dev.chauhan@lnmiit.ac.in,+91-98001-00015,LNMIIT Jaipur,REG-1015
+Ritika Saxena,ritika.saxena@thapar.edu,+91-98001-00016,Thapar University,REG-1016
+Aditya Pandey,aditya.pandey@nsit.ac.in,+91-98001-00017,NSIT Delhi,REG-1017
+Pooja Iyer,pooja.iyer@psgtech.ac.in,+91-98001-00018,PSG Tech Coimbatore,REG-1018
+Nikhil Dubey,nikhil.dubey@akgec.ac.in,+91-98001-00019,AKGEC Ghaziabad,REG-1019
+Tanvi Kulkarni,tanvi.kulkarni@coep.ac.in,+91-98001-00020,COEP Pune,REG-1020
+Arjun Das,arjun.das@iiest.ac.in,+91-98001-00021,IIEST Shibpur,REG-1021
+Shreya Ghosh,shreya.ghosh@iitg.ac.in,+91-98001-00022,IIT Guwahati,REG-1022
+Yash Agarwal,yash.agarwal@dtu.ac.in,+91-98001-00023,DTU Delhi,REG-1023
+Divya Sharma,divya.sharma@svnit.ac.in,+91-98001-00024,SVNIT Surat,REG-1024
+Hardik Patel,hardik.patel@gec.ac.in,+91-98001-00025,GEC Ahmedabad,REG-1025
+Nandini Rao,nandini.rao@uvce.ac.in,+91-98001-00026,UVCE Bangalore,REG-1026
+Lakshay Bansal,lakshay.bansal@bvcoe.ac.in,+91-98001-00027,BVCOE Delhi,REG-1027
+Ishita Kapoor,ishita.kapoor@ipu.ac.in,+91-98001-00028,IP University Delhi,REG-1028
+Vivek Mishra,vivek.mishra@knit.ac.in,+91-98001-00029,KNIT Sultanpur,REG-1029
+Pallavi Desai,pallavi.desai@svce.ac.in,+91-98001-00030,SVCE Chennai,REG-1030
+Rohit Jain,rohit.jain@jecrc.ac.in,+91-98001-00031,JECRC Jaipur,REG-1031
+Swati Singh,swati.singh@hbtu.ac.in,+91-98001-00032,HBTU Kanpur,REG-1032
+Gaurav Tiwari,gaurav.tiwari@gcet.ac.in,+91-98001-00033,GCET Noida,REG-1033
+Kritika Malhotra,kritika.malhotra@mait.ac.in,+91-98001-00034,MAIT Delhi,REG-1034
+Soham Chatterjee,soham.chatterjee@iitbhu.ac.in,+91-98001-00035,IIT BHU,REG-1035
+Preethi Suresh,preethi.suresh@cet.ac.in,+91-98001-00036,CET Thiruvananthapuram,REG-1036
+Manish Yadav,manish.yadav@sati.ac.in,+91-98001-00037,SATI Vidisha,REG-1037
+Sunita Pillai,sunita.pillai@kmea.ac.in,+91-98001-00038,KMEA College,REG-1038
+Ankit Khanna,ankit.khanna@geu.ac.in,+91-98001-00039,GEU Dehradun,REG-1039
+Ritu Verma,ritu.verma@mck.ac.in,+91-98001-00040,MCK Ambala,REG-1040
+Abhishek Sinha,abhishek.sinha@nmims.edu,+91-98001-00041,NMIMS Mumbai,REG-1041
+Deepa Krishnan,deepa.krishnan@ssnce.ac.in,+91-98001-00042,SSN College Chennai,REG-1042
+Kartik Awasthi,kartik.awasthi@iet.ac.in,+91-98001-00043,IET Lucknow,REG-1043
+Nisha Aggarwal,nisha.aggarwal@dce.ac.in,+91-98001-00044,DCE Delhi,REG-1044
+Parth Shah,parth.shah@ldrp.ac.in,+91-98001-00045,LDRP Gandhinagar,REG-1045
+Bhavna Sharma,bhavna.sharma@bmsce.ac.in,+91-98001-00046,BMSCE Bangalore,REG-1046
+Hemant Chauhan,hemant.chauhan@uiet.ac.in,+91-98001-00047,UIET Chandigarh,REG-1047
+Archana Pillai,archana.pillai@tce.edu,+91-98001-00048,TCE Madurai,REG-1048
+Sameer Khan,sameer.khan@gecb.ac.in,+91-98001-00049,GECB Bhilai,REG-1049
+Vandana Mishra,vandana.mishra@imsec.ac.in,+91-98001-00050,IMSEC Ghaziabad,REG-1050
